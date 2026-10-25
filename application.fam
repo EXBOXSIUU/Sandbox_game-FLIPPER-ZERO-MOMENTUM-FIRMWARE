@@ -1,0 +1,11 @@
+App(
+    appid="sand_sandbox",
+    name="Sand Sandbox",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="sand_sandbox_app",
+    stack_size=2 * 1024,
+    fap_category="Games",
+    fap_author="Claude",
+    fap_version="1.0",
+    fap_description="Simple 2D falling-sand sandbox",
+)

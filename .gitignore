@@ -1,0 +1,5 @@
+dist/
+.ufbt/
+.vscode/
+*.fap
+.sconsign.dblite
